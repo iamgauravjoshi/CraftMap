@@ -1,3 +1,8 @@
+# CraftMap — find builders near you
+
+A map-first maker discovery app inspired by the UX patterns of makermap.lol,
+rebuilt with original branding, copy, data and assets.
+
 ## Color Palette
 
 ### Primary Colors
